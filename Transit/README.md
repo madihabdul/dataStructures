@@ -1,1 +1,1 @@
-creates a bus, walking, train, and scooter map system using a special multi layered linked list. creates the linked list, adds rows, and finds the best shortest path on the map for the user to use. can also create a deep copy of the linked list.
+creates a bus, walking, train, and scooter map system using a special multi layered linked list. creates the linked list, adds rows, and finds the best shortest path on the map for the user to use. can also create a deep copy of the linked list, as well as add and delete stops. shows knowledge of singly linked lists thorougly.
